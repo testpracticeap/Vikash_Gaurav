@@ -22,6 +22,12 @@ public class UserList {
 	  
 	           
 	    }
+	  public void
+	    setUserList(
+	        List<UserResponse> userList)
+	    {
+	        this.userList= userList;
+	    }
 	
 
 }

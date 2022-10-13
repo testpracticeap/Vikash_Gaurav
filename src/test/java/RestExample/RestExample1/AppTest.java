@@ -85,7 +85,6 @@ public class AppTest {
 		ResponseBody resbody = response.getBody();
 
 		System.out.println(resbody.asString());
-
 	}
 
 	@Test
